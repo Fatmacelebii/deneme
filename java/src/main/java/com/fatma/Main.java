@@ -16,7 +16,7 @@ public class Main {
 
         // HASH SET
 
-        HashSet<String> meyveler = new HashSet<>();
+       /* HashSet<String> meyveler = new HashSet<>();
 
         meyveler.add("elma");
         meyveler.add("elma");
@@ -26,6 +26,8 @@ public class Main {
         for (String meyve : meyveler){
             System.out.println(meyve);
         }
+
+        */
 
 
 
